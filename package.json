@@ -1,0 +1,23 @@
+{
+  "name": "phantomjs-bin",
+  "description": "PhantomJS binary npm package for Mac OS X and Linux. Unofficial.",
+  "version": "0.0.0",
+  "author": "Yuya Kato (Nayutaya Inc.)",
+  "bugs": {
+    "url": "https://github.com/nayutaya/phantomjs-bin/issues"
+  },
+  "homepage": "https://github.com/nayutaya/phantomjs-bin#readme",
+  "keywords": [
+    "binary",
+    "phantomjs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayutaya/phantomjs-bin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
