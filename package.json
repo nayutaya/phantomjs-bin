@@ -1,7 +1,7 @@
 {
   "name": "phantomjs-bin",
   "description": "PhantomJS binary npm package for Mac OS X and Linux. Unofficial.",
-  "version": "0.0.0",
+  "version": "2.1.1",
   "author": "Yuya Kato (Nayutaya Inc.)",
   "bugs": {
     "url": "https://github.com/nayutaya/phantomjs-bin/issues"
