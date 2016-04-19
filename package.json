@@ -6,6 +6,10 @@
   "bugs": {
     "url": "https://github.com/nayutaya/phantomjs-bin/issues"
   },
+  "dependencies": {
+    "phantomjs-bin-linux-x86_64": "https://github.com/nayutaya/phantomjs-bin-linux-x86_64/releases/download/v2.1.1/phantomjs-bin-linux-x86_64-2.1.1.tgz",
+    "phantomjs-bin-macosx": "https://github.com/nayutaya/phantomjs-bin-macosx/releases/download/v2.1.1/phantomjs-bin-macosx-2.1.1.tgz"
+  },
   "homepage": "https://github.com/nayutaya/phantomjs-bin#readme",
   "keywords": [
     "binary",
@@ -13,6 +17,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nayutaya/phantomjs-bin.git"
